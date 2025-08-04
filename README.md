@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zara Arshad</h1>
+<h1 align="center">Hi 👋, I'm Android Developer</h1>
 <h3 align="center">Android Developer | Kotlin | Jetpack Compose</h3>
 
 <p align="center">
